@@ -15,7 +15,7 @@ Generated SQL code for queries<br>
 Debugging SQL code<br>
 Log files<br>
 <br>
-<b>Cemre Yolveren</b>
+<b>Cemre Yolveren</b><br>
 First draft of ERD<br>
 Generated SQL code for creating tables with group in lab<br>
 Generated SQL code for loading tables<br>
